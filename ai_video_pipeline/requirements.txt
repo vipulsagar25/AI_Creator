@@ -1,0 +1,15 @@
+# Core pipeline
+edge-tts>=6.1.9
+httpx>=0.27.0
+pydub>=0.25.1
+
+# YouTube upload (optional, only for Phase 3)
+google-api-python-client>=2.100.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
+
+# Audio processing
+# ffmpeg must be installed separately at system level:
+#   Ubuntu/Debian: sudo apt install ffmpeg
+#   Windows:       https://ffmpeg.org/download.html
+#   macOS:         brew install ffmpeg

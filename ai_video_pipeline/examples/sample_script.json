@@ -1,0 +1,25 @@
+{
+  "title": "The Future of AI",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "Artificial intelligence is no longer a distant dream. It is reshaping the world we live in, right now.",
+      "prompt": "futuristic city at night, glowing AI circuits, cinematic, 4k, dramatic lighting"
+    },
+    {
+      "id": 2,
+      "text": "From healthcare to education, AI is solving problems that once seemed impossible.",
+      "prompt": "doctor using holographic AI interface in hospital, photorealistic, cinematic"
+    },
+    {
+      "id": 3,
+      "text": "But with great power comes great responsibility. How we guide this technology will define our future.",
+      "prompt": "human hand reaching toward AI robot hand, dramatic lighting, cinematic, symbolic"
+    },
+    {
+      "id": 4,
+      "text": "The question is not whether AI will change everything. It already has. The question is: are you ready?",
+      "prompt": "person looking at glowing horizon, silhouette, sunrise, epic cinematic wide shot"
+    }
+  ]
+}
